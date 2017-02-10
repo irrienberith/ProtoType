@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProtoType</string>
+    <string name="new_instance">New Instance</string>
+    <string name="main_page_add_instance">It\'s empty.Click to add an instance.</string>
+</resources>
